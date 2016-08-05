@@ -9,7 +9,7 @@
 
     <!-- Define your beans here -->
     <bean id = "myCoach"
-    	  class = "patorn.pongsanit.com.FootballCoach"></bean>
+    	  class = "patorn.pongsanit.com.GolfCoach"></bean>
     
 </beans>
 

@@ -1,0 +1,7 @@
+package patorn.pongsanit.com;
+
+public interface Coach {
+
+	void getDailyRoutine();
+	
+}

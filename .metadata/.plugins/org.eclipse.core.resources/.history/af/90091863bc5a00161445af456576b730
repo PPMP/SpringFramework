@@ -1,0 +1,11 @@
+package patorn.pongsanit.com;
+
+public class FootballCoach implements Coach {
+
+	@Override
+	public String getDailyRoutine() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
